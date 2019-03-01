@@ -1,7 +1,9 @@
 #Defining Variables
 
 # Tu solucion abajo
-
+first_name="Cindy"
+last_name="Duarte"
+age=26
 
 # Pruebas NO LAS BORRES
 
